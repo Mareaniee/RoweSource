@@ -1135,7 +1135,7 @@
               {
                 "min_level": 5,
                 "max_level": 35,
-                "species": "SPECIES_CHINCOU"
+                "species": "SPECIES_CHINCHOU"
               },
               {
                 "min_level": 10,
@@ -1379,7 +1379,7 @@
               {
                 "min_level": 10,
                 "max_level": 20,
-                "species": "SPECIES_BARBOACH"
+                "species": "SPECIES_SHELLOS"
               },
               {
                 "min_level": 30,
@@ -2624,8 +2624,8 @@
                 "species": "SPECIES_YANMA"
               },
               {
-                "min_level": 5,
-                "max_level": 5,
+                "min_level": 8,
+                "max_level": 8,
                 "species": "SPECIES_SILCOON"
               },
               {
@@ -2634,8 +2634,8 @@
                 "species": "SPECIES_SLAKOTH"
               },
               {
-                "min_level": 6,
-                "max_level": 6,
+                "min_level": 8,
+                "max_level": 8,
                 "species": "SPECIES_CASCOON"
               },
               {
@@ -2689,8 +2689,8 @@
                 "species": "SPECIES_YANMA"
               },
               {
-                "min_level": 5,
-                "max_level": 5,
+                "min_level": 8,
+                "max_level": 8,
                 "species": "SPECIES_SILCOON"
               },
               {
@@ -2699,8 +2699,8 @@
                 "species": "SPECIES_SLAKOTH"
               },
               {
-                "min_level": 5,
-                "max_level": 5,
+                "min_level": 8,
+                "max_level": 8,
                 "species": "SPECIES_CASCOON"
               },
               {
