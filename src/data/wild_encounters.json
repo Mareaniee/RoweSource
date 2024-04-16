@@ -158,8 +158,8 @@
                 "species": "SPECIES_RALTS"
               },
               {
-                "min_level": 7,
-                "max_level": 7,
+                "min_level": 3,
+                "max_level": 3,
                 "species": "SPECIES_TAILLOW"
               },
               {
@@ -927,7 +927,7 @@
               {
                 "min_level": 4,
                 "max_level": 4,
-                "species": "SPECIES_PUMPKABOOL"
+                "species": "SPECIES_PUMPKABOO"
               },
               {
                 "min_level": 3,
